@@ -1,0 +1,11 @@
+﻿id,location,day,startTime,endTime,classType
+1,N3 B3b-05,Mon,1330,1430,lab
+2,N4 B2-10,Wed,1330,1430,lab
+3,The Arc TR31,Fri,1430,1630,tutorial
+4,The Hive TR5,Tue,1000,1200,tutorial
+5,NS4 B5-03,Mon,1600,1700,lab
+6,The Arc TR21,Fri,1430,1630,lecture
+7,LHN TR20,Wed,1430,1530,lecture
+8,RPR SR1,Tue,1530,1830,tutorial
+9,S4 CR1,Thu,1430,1530,lecture
+10,S3 SR22,Mon,1000,1100,lecture
